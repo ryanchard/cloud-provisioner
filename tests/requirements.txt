@@ -1,0 +1,11 @@
+# for base project (also in setup.py)
+sqlalchemy
+psycopg2
+boto
+pytz
+
+# just for testing
+nose
+mock
+nose-cov
+nosexcover
